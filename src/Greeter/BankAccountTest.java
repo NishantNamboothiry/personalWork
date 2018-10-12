@@ -1,11 +1,9 @@
 package Greeter;
 
-public class WorkTest {
+public class BankAccountTest {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		Worker bob= new Worker();
-		System.out.println(payCheck)());
 
 	}
 
