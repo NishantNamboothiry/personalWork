@@ -29,6 +29,7 @@ public class TestScoresTest {
 			System.out.println("You have a D.");
 		}
 		else{
+		if (average>=0)
 		System.out.println("You have an F.");
 			}
 		
