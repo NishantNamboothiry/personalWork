@@ -16,7 +16,7 @@ public class Advancednested {
 		else{
 			System.out.print(counter +" ");
 		}
-		System.out.print();
+		System.out.println();
 		}
 	}
 }
