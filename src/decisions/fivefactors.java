@@ -6,7 +6,6 @@ public class fivefactors {
 		Scanner input= new Scanner (System.in);
 		int value=0;
 		int i=0;
-		int answer=0;
 		System.out.println("What is your value?");
 		i=input.nextInt();
 		{
