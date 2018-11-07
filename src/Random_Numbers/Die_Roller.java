@@ -17,7 +17,7 @@ public class Die_Roller {
 		System.out.println("How many times should it be rolled?");
 		number_rolls = input.nextInt();
 		for (counter = 1; counter <= number_rolls; counter ++){
-			answer = 1 +rand.nextInt(die -1 + 1);
+			answer = 1 +rand.nextInt(die -1);
 			System.out.println(answer+ " ");
 		}
 	}
